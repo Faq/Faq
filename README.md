@@ -15,6 +15,6 @@ Anyone can reach me over here: https://www.linkedin.com/in/ainars-hausmanis/
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faq&hide=java,html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faq&hide=java,html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=faq&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faq&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
