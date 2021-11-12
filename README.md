@@ -1,9 +1,9 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Ainars and this is my coding playground.
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, this is my coding playground.
 
-Software Developer specializing in PHP.
+Software Developer specializing in PHP, Ruby.
 
 ---
-Anyone can reach me over here: https://www.linkedin.com/in/ainars-hausmanis/
+
 
 ---
 
